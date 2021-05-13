@@ -1,0 +1,5 @@
+C:\Users\Студент\source\repos\Gorox12.05.2021\bin\Debug\Gorox12.05.2021.exe
+C:\Users\Студент\source\repos\Gorox12.05.2021\bin\Debug\Gorox12.05.2021.pdb
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.exe
+C:\Users\Студент\source\repos\Gorox12.05.2021\obj\Debug\Gorox12.05.2021.pdb
